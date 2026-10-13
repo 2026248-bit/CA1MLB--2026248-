@@ -1,0 +1,7 @@
+
+# Original dataset files
+data/*.csv
+
+# Temporary Python files
+__pycache__/
+.ipynb_checkpoints/
